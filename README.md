@@ -1,5 +1,5 @@
 # Anatomy of JWT
 
-## Internal working of jwt
+## Internal working of jwt in this code
 
-## How jwt token is generated
+### How jwt token is generated using hmacSHA256 algorithm
